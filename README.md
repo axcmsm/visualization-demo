@@ -9,9 +9,9 @@
 
 Results show:
 
-![](D:\VS\vue\dataVisualization\dome\test\visualization-demo\img\20210827123610.png)
+![](https://gitee.com/axcmsm/tmp/raw/master/20210827123610.png)
 
-![](D:\VS\vue\dataVisualization\dome\test\visualization-demo\img\20210827123650.png)
+![](https://gitee.com/axcmsm/tmp/raw/master/20210827123650.png)
 
 *[run](javascript:;) [command](javascript:;)* :
 
